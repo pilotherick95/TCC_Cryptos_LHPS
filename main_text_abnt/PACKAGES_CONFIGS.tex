@@ -1,0 +1,130 @@
+
+%Texto de TCC2 de Lucas Herick Silva
+%https://www.linkedin.com/in/lucasherick/
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern} % fonte latin modern
+\usepackage{imakeidx} \makeindex[columns=2] %
+\usepackage{titlesec} %Fontes - regulamentação=
+\usepackage{amsmath,amssymb,amsthm} %amsfonts?
+\usepackage{tabularx}	%Entrada em Tabelas
+\usepackage{pdfpages}
+\usepackage{float}
+\usepackage{url} %links
+\PassOptionsToPackage{hyphens}{url}
+\usepackage{wrapfig}
+\usepackage{multicol}
+\usepackage{multirow}
+\usepackage{array}
+\usepackage{longtable}  %tabelas em duas páginas
+\usepackage{booktabs}
+\usepackage{indentfirst}% Indenta 1o parágrafo da seção.
+\usepackage{color}		% Controle das cores
+\usepackage{graphicx}	% Inclusão de gráficos
+%\usepackage{subcaption}% Inclusão de Sub-legendas
+\usepackage{subfig}		% Imagens lado a lado	
+\usepackage{microtype} 	% para melhorias de justificação
+\usepackage{hyphenat}
+\usepackage{multirow}
+%\usepackage{setspace}
+\usepackage{xcolor}		%Allows colored text 
+\usepackage[most]{tcolorbox} %Caixa preta ou colorida 
+\usepackage[left=3cm, right=2cm, top=3cm, bottom=2cm]{geometry}
+
+\usepackage{mathtools}
+\newcommand\underrel[3][]{\mathrel{\mathop{#3}\limits_{%
+			\ifx c#1\relax\mathclap{#2}\else#2\fi}}}
+
+\renewcommand{\baselinestretch}{1.3}
+
+% informações do PDF
+\hypersetup{
+	%pagebackref=true,
+	pdftitle={\@title}, 
+	pdfauthor={\@author}, 
+	colorlinks=false,       	% false: boxed links; true: colored links
+	linkcolor=blue,          	% color of internal links
+	citecolor=blue,        		% color of links to bibliography
+	filecolor=magenta,      		% color of file links
+	urlcolor=blue,
+	bookmarksdepth=4}
+
+
+%-------------------------------------------------------------
+
+%ABNT SETUP
+% Pacotes de citações
+% ---
+\usepackage[brazilian,hyperpageref]{backref}	 % Paginas com as citações na bibl
+\usepackage[alf]{abntex2cite}	% Citações padrão ABNT
+% ---
+
+% ---
+% Configurações do pacote backref
+% Usado sem a opção hyperpageref de backref
+\renewcommand{\backrefpagesname}{Citado na(s) página(s):~}
+% Texto padrão antes do número das páginas
+\renewcommand{\backref}{}
+% Define os textos da citação
+\renewcommand*{\backrefalt}[4]{
+	\ifcase #1 %
+	Nenhuma citação no texto.%
+	\or
+	Citado na página #2.%
+	\else
+	Citado #1 vezes nas páginas #2.%
+	\fi}%
+
+\chapterstyle{default} %default %ell %southall
+\renewcommand{\ABNTEXpartfont}{\normalfont}
+\renewcommand{\ABNTEXsectionfont}{\normalfont}
+\renewcommand{\ABNTEXsubsectionfont}{\normalfont}
+\renewcommand{\ABNTEXsubsubsectionfont}{\normalfont} 
+
+\usepackage{fancyhdr}
+
+%---------CAPA PACKAGES-------
+\usepackage{eso-pic}
+
+\usepackage[overlay,absolute]{textpos}
+\newcommand\PlaceText[3]{%
+	\begin{textblock*}{10in}(#1,#2)  %% change width of box from 10in as you wish
+		#3
+	\end{textblock*}
+}%
+\textblockorigin{-5mm}{0mm}% Default origin top left  
+%---------------------------------------
+
+%---------INTRO PACKAGES-------
+%\usepackage{tocloft}
+\usepackage{etoc}
+\etocsettocstyle{\chapter*{\normalfont\bfseries SUMÁRIO}}{}
+
+%-------AGRAD PACAKGES------------------
+\usepackage{wasysym}
+\usepackage{harmony}
+\newcommand{\heart}{\ensuremath\heartsuit}
+\newcommand{\butt}{\rotatebox[origin=c]{180}{\heart}}
+\usepackage{kotex} 
+
+%------CHAPTERS 1-10 PACKAGES--------
+%\usepackage{coloremoji}
+\renewcommand{\chaptername}{Capítulo}
+
+%-----GLOSSARIO-----
+\usepackage{hyperref}
+\usepackage{marginnote}
+%\newtcolorbox{fakeminipage}[1][]{enhanced jigsaw,breakable,boxsep=0pt,boxrule=0pt,width=\textwidth,colback=white,#1}
+
+%------REF BIBLIOGRAFS PACKAGES-------
+%\usepackage{bibspacing}
+%\setlength{\bibitemsep}{2\baselineskip}
+
+\renewcommand{\bibsection}{\chapter*{Referências Bibliográficas}}
+
+\usepackage{lastpage}
+%Texto de TCC2 de Lucas Herick Silva
+%https://www.linkedin.com/in/lucasherick/
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
