@@ -1,0 +1,168 @@
+\glsdefs@newdocentry{J'adoube}%
+{%
+name={J'adoube},%
+sort={J'adoube},%
+type={main},%
+first={J'adoube},%
+firstplural={J'adoubes},%
+text={J'adoube},%
+plural={J'adoubes},%
+description={Expressão de origem francesa internacionalmente utilizada quando se quer advertir o adversário de que uma peça será tocada com o único objetivo de arrumá-la. Significa "eu arrumo". Atualmente também se utiliza a expressão inglesa "I adjust". Em língua portuguesa pode-se usar a expressão "Ajuste". O ajuste deve ser feito apenas na vez do enxadrista, sendo precedido por uma das expressões de advertência},%
+descriptionplural={Expressão de origem francesa internacionalmente utilizada quando se quer advertir o adversário de que uma peça será tocada com o único objetivo de arrumá-la. Significa "eu arrumo". Atualmente também se utiliza a expressão inglesa "I adjust". Em língua portuguesa pode-se usar a expressão "Ajuste". O ajuste deve ser feito apenas na vez do enxadrista, sendo precedido por uma das expressões de advertência},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{Mate anunciado}%
+{%
+name={Mate anunciado},%
+sort={Mate anunciado},%
+type={main},%
+first={Mate anunciado},%
+firstplural={Mate anunciados},%
+text={Mate anunciado},%
+plural={Mate anunciados},%
+description={Uma prática comum no século XIV, onde um enxadrista anunciava o número de jogadas que, segundo sua análise, constituiriam a melhor sequência para ambos os lados que levaria ao xeque-mate},%
+descriptionplural={Uma prática comum no século XIV, onde um enxadrista anunciava o número de jogadas que, segundo sua análise, constituiriam a melhor sequência para ambos os lados que levaria ao xeque-mate},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{Abandono}%
+{%
+name={Abandono},%
+sort={Abandono},%
+type={main},%
+first={Abandono},%
+firstplural={Abandonos},%
+text={Abandono},%
+plural={Abandonos},%
+description={Ação de deixar a partida},%
+descriptionplural={Ação de deixar a partida},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{Tabuleiro}%
+{%
+name={Tabuleiro},%
+sort={Tabuleiro},%
+type={main},%
+first={Tabuleiro},%
+firstplural={Tabuleiros},%
+text={Tabuleiro},%
+plural={Tabuleiros},%
+description={O tabuleiro de xadrez é um equipamento para a prática do xadrez, sobre o qual são dispostas as peças do jogo. Geralmente é de forma quadrada, com um padrão reticulado característico com alternância de duas cores entre as suas subdivisões. Normalmente é fabricado em madeira ou em plástico, mas pode ser empregada uma grande variedade de materiais como couro, mármore, marfim, vidro ou metal.},%
+descriptionplural={O tabuleiro de xadrez é um equipamento para a prática do xadrez, sobre o qual são dispostas as peças do jogo. Geralmente é de forma quadrada, com um padrão reticulado característico com alternância de duas cores entre as suas subdivisões. Normalmente é fabricado em madeira ou em plástico, mas pode ser empregada uma grande variedade de materiais como couro, mármore, marfim, vidro ou metal.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{Casa}%
+{%
+name={Casa},%
+sort={Casa},%
+type={main},%
+first={Casa},%
+firstplural={Casas},%
+text={Casa},%
+plural={Casas},%
+description={Um das 64 divisões do tabuleiro, sendo 32 claras e 32 escuras. No tabuleiro, a casa na primeira fileira e oitava coluna é de cor clara},%
+descriptionplural={Um das 64 divisões do tabuleiro, sendo 32 claras e 32 escuras. No tabuleiro, a casa na primeira fileira e oitava coluna é de cor clara},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{Peao}%
+{%
+name={Peao},%
+sort={Peao},%
+type={main},%
+first={Peao},%
+firstplural={Peaos},%
+text={Peao},%
+plural={Peaos},%
+description={O Peão é a mais modesta das peças de xadrez, e cada jogador conta com 8 peões no início do jogo, na segunda fileira (ou sétima, no caso das pretas). Quando se dão valores para as peças, geralmente se toma como unidade básica o próprio peão, que assim valerá 1. O peão movimenta-se sempre para a frente, sendo a única peça que não pode retornar ou retroceder. Na primeira jogada de cada peão, ele tem a permissão de andar uma ou duas casas, mas nas outras o peão que já foi movido pode mover-se apenas uma casa de cada vez.},%
+descriptionplural={O Peão é a mais modesta das peças de xadrez, e cada jogador conta com 8 peões no início do jogo, na segunda fileira (ou sétima, no caso das pretas). Quando se dão valores para as peças, geralmente se toma como unidade básica o próprio peão, que assim valerá 1. O peão movimenta-se sempre para a frente, sendo a única peça que não pode retornar ou retroceder. Na primeira jogada de cada peão, ele tem a permissão de andar uma ou duas casas, mas nas outras o peão que já foi movido pode mover-se apenas uma casa de cada vez.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+

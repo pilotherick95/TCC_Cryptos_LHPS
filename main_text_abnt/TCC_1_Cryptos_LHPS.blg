@@ -1,0 +1,135 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: TCC_1_Cryptos_LHPS.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+A level-1 auxiliary file: CAPA.aux
+Reallocating 'name_of_file' (item size: 1) to 15 items.
+A level-1 auxiliary file: FOLHAROSTO.aux
+Reallocating 'name_of_file' (item size: 1) to 14 items.
+A level-1 auxiliary file: FICHA_CAT.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+A level-1 auxiliary file: FOLHA_APROV.aux
+Reallocating 'name_of_file' (item size: 1) to 10 items.
+A level-1 auxiliary file: DEDIC.aux
+Reallocating 'name_of_file' (item size: 1) to 12 items.
+A level-1 auxiliary file: AGRADEC.aux
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+A level-1 auxiliary file: EPIGRAFE.aux
+Reallocating 'name_of_file' (item size: 1) to 12 items.
+A level-1 auxiliary file: RES_ABS.aux
+Reallocating 'name_of_file' (item size: 1) to 15 items.
+A level-1 auxiliary file: SUM_LISFIG.aux
+Reallocating 'name_of_file' (item size: 1) to 12 items.
+A level-1 auxiliary file: SIG_ABB.aux
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+A level-1 auxiliary file: PROLOG.aux
+Reallocating 'name_of_file' (item size: 1) to 17 items.
+A level-1 auxiliary file: DEVELOPMENT2.aux
+Reallocating 'name_of_file' (item size: 1) to 17 items.
+A level-1 auxiliary file: DEVELOPMENT3.aux
+Reallocating 'name_of_file' (item size: 1) to 12 items.
+A level-1 auxiliary file: HANDSON.aux
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+A level-1 auxiliary file: ENDING.aux
+Reallocating 'name_of_file' (item size: 1) to 12 items.
+A level-1 auxiliary file: BIBLIOG.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+A level-1 auxiliary file: APPENDIX.aux
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+A level-1 auxiliary file: GLOSSARY.aux
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+A level-1 auxiliary file: INDICE.aux
+Reallocating 'name_of_file' (item size: 1) to 12 items.
+The style file: abntex2-alf.bst
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 9000 items.
+Database file #1: abntex2-options.bib
+Database file #2: CRYPTOREFS.bib
+Warning--entry type for "GARROD" isn't style-file defined
+--line 53 of file CRYPTOREFS.bib
+Warning--I'm ignoring GARROD's extra "note" field
+--line 65 of file CRYPTOREFS.bib
+Warning--entry type for "COINBASE" isn't style-file defined
+--line 69 of file CRYPTOREFS.bib
+Warning--entry type for "KRUNGMAN" isn't style-file defined
+--line 85 of file CRYPTOREFS.bib
+Warning--entry type for "MISESA" isn't style-file defined
+--line 105 of file CRYPTOREFS.bib
+Warning--entry type for "OXDIC" isn't style-file defined
+--line 125 of file CRYPTOREFS.bib
+Warning--entry type for "OCDE" isn't style-file defined
+--line 155 of file CRYPTOREFS.bib
+Warning--entry type for "LLION" isn't style-file defined
+--line 219 of file CRYPTOREFS.bib
+Warning--entry type for "LMAP" isn't style-file defined
+--line 235 of file CRYPTOREFS.bib
+Warning--entry type for "BRIT" isn't style-file defined
+--line 251 of file CRYPTOREFS.bib
+Warning--entry type for "TODAMAT" isn't style-file defined
+--line 267 of file CRYPTOREFS.bib
+Warning--entry type for "BRIT2" isn't style-file defined
+--line 283 of file CRYPTOREFS.bib
+Warning--entry type for "CANADA" isn't style-file defined
+--line 299 of file CRYPTOREFS.bib
+Warning--entry type for "SANBORN" isn't style-file defined
+--line 729 of file CRYPTOREFS.bib
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'glb_str_end' (item size: 4) to 20 items.
+Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
+Reallocating 'global_strs' (item size: 1) to 4000000 items.
++---------------------------------------------------------+
+| Estilo bibliográfico abntex2-alf.bst versão v-1.9.7           |
+| Em caso de dúvidas ou problemas com este estilo procure |
+| http://www.abntex.net.br/                               |
++---------------------------------------------------------+
+You've used 51 entries,
+            6714 wiz_defined-function locations,
+            1517 strings with 17273 characters,
+and the built_in function-call counts, 86184 in all, are:
+= -- 11101
+> -- 820
+< -- 2886
++ -- 3217
+- -- 270
+* -- 4785
+:= -- 10440
+add.period$ -- 227
+call.type$ -- 51
+change.case$ -- 363
+chr.to.int$ -- 51
+cite$ -- 50
+duplicate$ -- 10063
+empty$ -- 2875
+format.name$ -- 1245
+if$ -- 16203
+int.to.chr$ -- 0
+int.to.str$ -- 0
+missing$ -- 857
+newline$ -- 292
+num.names$ -- 250
+pop$ -- 1162
+preamble$ -- 1
+purify$ -- 157
+quote$ -- 0
+skip$ -- 10295
+stack$ -- 1
+substring$ -- 3943
+swap$ -- 3437
+text.length$ -- 44
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 347
+width$ -- 0
+write$ -- 751
+(There were 14 warnings)
