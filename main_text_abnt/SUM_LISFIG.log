@@ -1,0 +1,42 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.7.19)  22 OCT 2020 16:52
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**SUM_LISFIG.tex
+(./SUM_LISFIG.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-07-17>
+! Undefined control sequence.
+l.4 \tableofcontents
+                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.5 \listoffigures
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+)
+! Emergency stop.
+<*> SUM_LISFIG.tex
+                  
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 16 strings out of 480906
+ 401 string characters out of 5898451
+ 242470 words of memory out of 5000000
+ 15714 multiletter control sequences out of 15000+600000
+ 535088 words of font info for 29 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 12i,0n,15p,69b,8s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!

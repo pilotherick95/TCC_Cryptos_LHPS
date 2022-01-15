@@ -1,0 +1,1268 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.7.19)  22 OCT 2020 12:40
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**CAPA.tex
+(./CAPA.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-07-17>
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/abntex2/abnte
+x2.cls
+Document Class: abntex2 2018/11/24 v-1.9.7 abnTeX2
+
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/base/ifthen.s
+ty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/memoir/memoir
+.cls
+Document Class: memoir 2020/06/02 v3.7l configurable book, report, article docu
+ment class
+\onelineskip=\skip47
+\lxvchars=\skip48
+\xlvchars=\skip49
+\@memcnta=\count168
+\c@@memmarkcntra=\count169
+LaTeX Info: Redefining \InputIfFileExists on input line 140.
+
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/iftex/iftex
+.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+\stockheight=\skip50
+\stockwidth=\skip51
+\trimtop=\skip52
+\trimedge=\skip53
+
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/memoir/mem17.
+clo
+File: mem17.clo 2008/01/30 v0.3 memoir class 17pt size option
+)
+\binding=\skip54
+\spinemargin=\skip55
+\foremargin=\skip56
+\uppermargin=\skip57
+\lowermargin=\skip58
+\headdrop=\skip59
+\normalrulethickness=\skip60
+\mem@maxheadheight=\skip61
+\mem@maxfootheight=\skip62
+\headwidth=\skip63
+\c@storedpagenumber=\count170
+\memPD=\dimen134
+\m@mabparskip=\skip64
+\thanksmarkwidth=\skip65
+\thanksmarksep=\skip66
+\droptitle=\skip67
+\c@book=\count171
+\c@part=\count172
+\c@chapter=\count173
+\c@section=\count174
+\c@subsection=\count175
+\c@subsubsection=\count176
+\c@paragraph=\count177
+\c@subparagraph=\count178
+\beforechapskip=\skip68
+\midchapskip=\skip69
+\afterchapskip=\skip70
+\chapindent=\skip71
+\bottomsectionskip=\skip72
+\secindent=\skip73
+\beforesecskip=\skip74
+\aftersecskip=\skip75
+\subsecindent=\skip76
+\beforesubsecskip=\skip77
+\aftersubsecskip=\skip78
+\subsubsecindent=\skip79
+\beforesubsubsecskip=\skip80
+\aftersubsubsecskip=\skip81
+\paraindent=\skip82
+\beforeparaskip=\skip83
+\afterparaskip=\skip84
+\subparaindent=\skip85
+\beforesubparaskip=\skip86
+\aftersubparaskip=\skip87
+\pfbreakskip=\skip88
+\c@@ppsavesec=\count179
+\c@@ppsaveapp=\count180
+\ragrparindent=\dimen135
+\everylistparindent=\dimen136
+\parsepi=\skip89
+\topsepi=\skip90
+\itemsepi=\skip91
+\parsepii=\skip92
+\topsepii=\skip93
+\topsepiii=\skip94
+\itemsepii=\skip95
+\itemsepiii=\skip96
+\partopsepii=\skip97
+\partopsepiii=\skip98
+\m@msavetopsep=\skip99
+\m@msavepartopsep=\skip100
+\@enLab=\toks15
+\abstitleskip=\skip101
+\absleftindent=\skip102
+\abs@leftindent=\dimen137
+\absrightindent=\skip103
+\absparindent=\skip104
+\absparsep=\skip105
+\c@vslineno=\count181
+\c@poemline=\count182
+\c@modulo@vs=\count183
+\c@memfvsline=\count184
+\vleftskip=\skip106
+\vrightskip=\skip107
+\stanzaskip=\skip108
+\versewidth=\skip109
+\vgap=\skip110
+\vindent=\skip111
+\vleftmargin=\dimen138
+\c@verse=\count185
+\c@chrsinstr=\count186
+\beforepoemtitleskip=\skip112
+\afterpoemtitleskip=\skip113
+\c@poem=\count187
+\beforePoemTitleskip=\skip114
+\midPoemTitleskip=\skip115
+\afterPoemTitleskip=\skip116
+
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/tools/array.s
+ty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen139
+\ar@mcellbox=\box45
+\extrarowheight=\dimen140
+\NC@list=\toks16
+\extratabsurround=\skip117
+\backup@length=\skip118
+\ar@cellbox=\box46
+)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/tools/dcolumn
+.sty
+Package: dcolumn 2014/10/28 v1.06 decimal alignment package (DPC)
+)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/tools/delarra
+y.sty
+Package: delarray 2014/10/28 v1.01 array delimiter package (DPC)
+)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/tools/tabular
+x.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen141
+\TX@old@table=\dimen142
+\TX@old@col=\dimen143
+\TX@target=\dimen144
+\TX@delta=\dimen145
+\TX@cols=\count188
+\TX@ftn=\toks17
+)
+\heavyrulewidth=\dimen146
+\lightrulewidth=\dimen147
+\cmidrulewidth=\dimen148
+\belowrulesep=\dimen149
+\belowbottomsep=\dimen150
+\aboverulesep=\dimen151
+\abovetopsep=\dimen152
+\cmidrulesep=\dimen153
+\cmidrulekern=\dimen154
+\defaultaddspace=\dimen155
+\@cmidla=\count189
+\@cmidlb=\count190
+\@aboverulesep=\dimen156
+\@belowrulesep=\dimen157
+\@thisruleclass=\count191
+\@lastruleclass=\count192
+\@thisrulewidth=\dimen158
+\ctableftskip=\skip119
+\ctabrightskip=\skip120
+\abovecolumnspenalty=\count193
+\@linestogo=\count194
+\@cellstogo=\count195
+\@cellsincolumn=\count196
+\crtok=\toks18
+\@mincolumnwidth=\dimen159
+\c@newflo@tctr=\count197
+\mem@margin@floatbox=\box47
+\@contcwidth=\skip121
+\@contindw=\skip122
+\abovecaptionskip=\skip123
+\belowcaptionskip=\skip124
+\subfloattopskip=\skip125
+\subfloatcapskip=\skip126
+\subfloatcaptopadj=\skip127
+\subfloatbottomskip=\skip128
+\subfloatlabelskip=\skip129
+\subfloatcapmargin=\dimen160
+\c@@contsubnum=\count198
+\m@mscap@capbox=\box48
+\m@mscap@fbox=\box49
+\sidecapsep=\dimen161
+\sidecapwidth=\dimen162
+\m@m@tempdima=\dimen163
+\m@mscapraise=\dimen164
+\sidecapraise=\dimen165
+\m@mscapmainwidth=\dimen166
+\m@mscaplkern=\dimen167
+\beforeepigraphskip=\skip130
+\afterepigraphskip=\skip131
+\epigraphwidth=\skip132
+\epigraphrule=\skip133
+LaTeX Info: Redefining \em on input line 7664.
+LaTeX Info: Redefining \emph on input line 7672.
+\tocentryskip=\skip134
+\tocbaseline=\skip135
+\cftparskip=\skip136
+\cftbeforebookskip=\skip137
+\cftbookindent=\dimen168
+\cftbooknumwidth=\dimen169
+\cftbeforepartskip=\skip138
+\cftpartindent=\skip139
+\cftpartnumwidth=\skip140
+\cftbeforechapterskip=\skip141
+\cftchapterindent=\skip142
+\cftchapternumwidth=\skip143
+\cftbeforesectionskip=\skip144
+\cftsectionindent=\skip145
+\cftsectionnumwidth=\skip146
+\cftbeforesubsectionskip=\skip147
+\cftsubsectionindent=\skip148
+\cftsubsectionnumwidth=\skip149
+\cftbeforesubsubsectionskip=\skip150
+\cftsubsubsectionindent=\skip151
+\cftsubsubsectionnumwidth=\skip152
+\cftbeforeparagraphskip=\skip153
+\cftparagraphindent=\skip154
+\cftparagraphnumwidth=\skip155
+\cftbeforesubparagraphskip=\skip156
+\cftsubparagraphindent=\skip157
+\cftsubparagraphnumwidth=\skip158
+\prechapterprecisshift=\dimen170
+\c@maxsecnumdepth=\count199
+\bibindent=\dimen171
+\bibitemsep=\skip159
+\indexcolsep=\skip160
+\indexrule=\skip161
+\indexmarkstyle=\toks19
+\@indexbox=\insert252
+\glossarycolsep=\dimen172
+\glossaryrule=\dimen173
+\sideparvshift=\skip162
+\sideins=\insert251
+\sidebartopsep=\skip163
+\sidebarhsep=\skip164
+\sidebarvsep=\skip165
+\sidebarwidth=\skip166
+\footmarkwidth=\skip167
+\footmarksep=\skip168
+\footparindent=\skip169
+\footinsdim=\skip170
+\footinsv@r=\insert250
+\@mpfootinsv@r=\insert249
+\m@m@k=\count266
+\m@m@h=\dimen174
+\m@mipn@skip=\skip171
+\sidefootins=\insert248
+\sidefootadjust=\skip172
+\sidefootheight=\skip173
+\sidefoothsep=\skip174
+\sidefootvsep=\skip175
+\sidefootwidth=\skip176
+\m@mdownsf=\skip177
+\c@sidefootnote=\count267
+\sidefootmarkwidth=\skip178
+\sidefootmarksep=\skip179
+\sidefootparindent=\skip180
+\c@pagenote=\count268
+\c@pagenoteshadow=\count269
+\mem@pn@lastkern=\skip181
+\every@verbatim=\toks20
+\afterevery@verbatim=\toks21
+\verbatim@line=\toks22
+\tab@position=\count270
+\verbatim@in@stream=\read2
+\verbatimindent=\skip182
+\verbatim@out=\write3
+\bvboxsep=\skip183
+\c@memfbvline=\count271
+\c@bvlinectr=\count272
+\bvnumlength=\skip184
+\fb@frw=\dimen175
+\fb@frh=\dimen176
+\FrameRule=\dimen177
+\FrameSep=\dimen178
+\c@cp@cntr=\count273
+LaTeX Info: Redefining \: on input line 12199.
+LaTeX Info: Redefining \! on input line 12199.
+\c@ism@mctr=\count274
+\c@xsm@mctr=\count275
+\c@csm@mctr=\count276
+\c@ksm@mctr=\count277
+\c@xksm@mctr=\count278
+\c@cksm@mctr=\count279
+\c@msm@mctr=\count280
+\c@xmsm@mctr=\count281
+\c@cmsm@mctr=\count282
+\c@bsm@mctr=\count283
+\c@workm@mctr=\count284
+\c@sheetsequence=\count285
+\c@lastsheet=\count286
+\c@lastpage=\count287
+
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/textcase/text
+case.sty
+Package: textcase 2019/09/14 v1.00 Text only upper/lower case changing (DPC)
+)
+\c@figure=\count288
+\c@lofdepth=\count289
+\cftbeforefigureskip=\skip185
+\cftfigureindent=\skip186
+\cftfigurenumwidth=\skip187
+\c@table=\count290
+\c@lotdepth=\count291
+\cftbeforetableskip=\skip188
+\cfttableindent=\skip189
+\cfttablenumwidth=\skip190
+Package abstract [2008/07/23] emulated by memoir.
+Package appendix [2008/07/23] emulated by memoir.
+Package booktabs [2016/05/16] emulated by memoir.
+Package ccaption [2008/07/23] emulated by memoir.
+Package changepage [2008/07/23] emulated by memoir.
+Package chngcntr [2008/07/23] emulated by memoir.
+Package chngpage [2008/07/23] emulated by memoir.
+Package crop emulated by memoir.
+Package enumerate [2008/07/23] emulated by memoir.
+Package epigraph [2008/07/23] emulated by memoir.
+Package ifmtarg [2008/07/23] emulated by memoir.
+Package index [2008/07/23] emulated by memoir.
+Package makeidx [2008/07/23] emulated by memoir.
+Package moreverb [2008/07/23] emulated by memoir.
+Package mparhack [2008/07/23] emulated by memoir.
+Package needspace [2008/07/23] emulated by memoir.
+Package newfile [2008/07/23] emulated by memoir.
+Package nextpage [2008/07/23] emulated by memoir.
+Package pagenote [2008/07/23] emulated by memoir.
+Package parskip [2008/07/23] emulated by memoir.
+Package patchcmd [2008/07/23] emulated by memoir.
+Package setspace [2008/07/23] emulated by memoir.
+Package shortvrb [2008/07/23] emulated by memoir.
+Package showidx [2008/07/23] emulated by memoir.
+Package titleref [2008/07/23] emulated by memoir.
+Package titling [2008/07/23] emulated by memoir.
+Package tocbibind [2008/07/23] emulated by memoir.
+Package tocloft [2008/07/23] emulated by memoir.
+Package tocvsec2 [2008/07/23] emulated by memoir.
+Package verbatim [2008/07/23] emulated by memoir.
+Package verse [2008/07/23] emulated by memoir.
+)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/hyperref/hype
+rref.sty
+Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
+
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltx
+cmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pdftexcmds/
+pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/infwarerr/i
+nfwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/graphics/keyv
+al.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks23
+)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/kvsetkeys/k
+vsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/kvdefinekey
+s/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pdfescape/p
+dfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/hycolor/hycol
+or.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/letltxmacro/l
+etltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/auxhook/auxho
+ok.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/kvoptions/kvo
+ptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+)
+\@linkdim=\dimen179
+\Hy@linkcounter=\count292
+\Hy@pagecounter=\count293
+
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/hyperref/pd1e
+nc.def
+File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/intcalc/int
+calc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/etexcmds/et
+excmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count294
+Package hyperref Info: Hyper figures OFF on input line 4464.
+Package hyperref Info: Link nesting OFF on input line 4469.
+Package hyperref Info: Hyper index ON on input line 4472.
+Package hyperref Info: Plain pages OFF on input line 4479.
+Package hyperref Info: Backreferencing OFF on input line 4484.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4717.
+\c@Hy@tempcnt=\count295
+
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5076.
+\XeTeXLinkMargin=\dimen180
+
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/bitset/bits
+et.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/bigintcalc/
+bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count296
+\Field@Width=\dimen181
+\Fld@charsize=\dimen182
+Package hyperref Info: Hyper figures OFF on input line 6347.
+Package hyperref Info: Link nesting OFF on input line 6352.
+Package hyperref Info: Hyper index ON on input line 6355.
+Package hyperref Info: backreferencing OFF on input line 6362.
+Package hyperref Info: Link coloring OFF on input line 6367.
+Package hyperref Info: Link coloring with OCG OFF on input line 6372.
+Package hyperref Info: PDF/A mode OFF on input line 6377.
+LaTeX Info: Redefining \ref on input line 6417.
+LaTeX Info: Redefining \pageref on input line 6421.
+
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/atbegshi/at
+begshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\Hy@abspage=\count297
+\c@Item=\count298
+\c@Hfootnote=\count299
+)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/memoir/memhfi
+xc.sty
+Package: memhfixc 2019/10/24 v1.18 nameref/hyperref package fixes for memoir cl
+ass
+\c@memhycontfloat=\count300
+\c@Hpagenote=\count301
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/hyperref/hpdf
+tex.def
+File: hpdftex.def 2020-05-15 v7.00e Hyperref driver for pdfTeX
+
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/atveryend/atv
+eryend.sty
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+)
+\Fld@listcount=\count302
+\c@bookmark@seq@number=\count303
+
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/rerunfilechec
+k/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/uniquecount
+er/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip191
+)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/bookmark/book
+mark.sty
+Package: bookmark 2019/12/03 v1.28 PDF bookmarks (HO)
+
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/bookmark/bkm-
+pdftex.def
+File: bkm-pdftex.def 2019/12/03 v1.28 bookmark driver for pdfTeX (HO)
+\BKM@id=\count304
+))
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/babel/babel
+.sty
+Package: babel 2020/07/13 3.47 The Babel package
+
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/babel/babel
+.def
+File: babel.def 2020/07/13 3.47 Babel common definitions
+\babel@savecnt=\count305
+\U@D=\dimen183
+\l@babelnohyphens=\language86
+
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/babel/txtba
+bel.def)
+\bbl@readstream=\read3
+)
+\bbl@dirlevel=\count306
+
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/babel-portu
+ges/brazil.ldf
+Language: portuges 2020/05/04 v1.2r Portuguese support from the babel system
+Package babel Info: \l@brazil = using hyphenrules for portuguese
+(babel)             (\language69) on input line 111.
+Package babel Info: Making " an active character on input line 143.
+))
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/enumitem/enum
+item.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip192
+\enit@outerparindent=\dimen184
+\enit@toks=\toks24
+\enit@inbox=\box50
+\enit@count@id=\count307
+\enitdp@description=\count308
+)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/tools/calc.st
+y
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count309
+\calc@Bcount=\count310
+\calc@Adimen=\dimen185
+\calc@Bdimen=\dimen186
+\calc@Askip=\skip193
+\calc@Bskip=\skip194
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count311
+\calc@Cskip=\skip195
+)
+
+******************************************************
+Stock height and width: 845.04684pt by 597.50787pt
+Top and edge trims: 0pt and 0pt
+Page height and width: 845.04684pt by 597.50787pt
+Text height and width: 696.4pt by 455pt
+Spine and edge margins: 85.35826pt and 56.9055pt
+Upper and lower margins: 85.35826pt and 63.28859pt
+Headheight and headsep: 22pt and 21.68121pt
+Footskip: 28.90755pt
+Columnsep and columnseprule: 10pt and 0pt
+Marginparsep and marginparwidth: 11.09485pt and 34.7158pt
+Sidecapsep and sidecapwidth: 11.09485pt and 3pt
+Sidebarhsep and sidebarwidth: 11.09485pt and 3pt
+Sidebarvsep and sidebartopsep: 22pt and 0pt
+Sidebarheight: 587.39993pt
+Sidefoothsep and sidefootwidth: 11.09485pt and 3pt
+Sidefootvsep and sidefootheight: 22pt and 587.39993pt
+******************************************************
+
+\c@abntex@bookmarkcounter=\count312
+\cftlastnumwidth=\skip196
+\chapternamenumlength=\skip197
+\ABNTEXcitacaorecuo=\skip198
+\c@alineasi=\count313
+\c@alineasii=\count314
+\enitdp@alineas=\count315
+\c@subalineasi=\count316
+\enitdp@subalineas=\count317
+\c@incisosi=\count318
+\enitdp@incisos=\count319
+\ABNTEXsignwidth=\skip199
+\ABNTEXsignthickness=\skip256
+\ABNTEXsignskip=\skip257
+)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/base/fontenc.
+sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/ae/ae.sty
+Package: ae 2001/02/12 1.3 Almost European Computer Modern
+
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/base/fontenc.
+sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+))
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/base/inputenc
+.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks25
+\inpenc@posthook=\toks26
+)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/pdfpages/pdfp
+ages.sty
+Package: pdfpages 2020/01/28 v0.5q Insert pages of external PDF documents (AM)
+
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/eso-pic/eso-p
+ic.sty
+Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
+
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor
+.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/graphics-cfg/
+color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/graphics-def/
+pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+))
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/graphics/grap
+hicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/graphics/grap
+hics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/graphics/trig
+.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/graphics-cfg/
+graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+)
+\Gin@req@height=\dimen187
+\Gin@req@width=\dimen188
+)
+\AM@pagewidth=\dimen189
+\AM@pageheight=\dimen190
+
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/pdfpages/pppd
+ftex.def
+File: pppdftex.def 2020/01/28 v0.5q Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box51
+\AM@global@opts=\toks27
+\AM@pagecnt=\count320
+\AM@toc@title=\toks28
+\c@AM@survey=\count321
+\AM@templatesizebox=\box52
+)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/pgf/utilities
+/pgffor.sty
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/pgf/utilities
+/pgfrcs.sty
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pgf/utiliti
+es/pgfutil-common.tex
+\pgfutil@everybye=\toks29
+\pgfutil@tempdima=\dimen191
+\pgfutil@tempdimb=\dimen192
+
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pgf/utiliti
+es/pgfutil-common-lists.tex))
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pgf/utiliti
+es/pgfutil-latex.def
+\pgfutil@abb=\box53
+
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/ms/everyshi.s
+ty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pgf/utiliti
+es/pgfrcs.code.tex
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pgf/pgf.rev
+ision.tex)
+Package: pgfrcs 2020/01/08 v3.1.5b (3.1.5b)
+))
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/pgf/utilities
+/pgfkeys.sty
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pgf/utiliti
+es/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks30
+\pgfkeys@temptoks=\toks31
+
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pgf/utiliti
+es/pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks32
+)))
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/pgf/math/pgfm
+ath.sty
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pgf/math/pg
+fmath.code.tex
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pgf/math/pg
+fmathcalc.code.tex
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pgf/math/pg
+fmathutil.code.tex
+\pgf@x=\dimen193
+\pgf@xa=\dimen194
+\pgf@xb=\dimen195
+\pgf@xc=\dimen196
+\pgf@y=\dimen197
+\pgf@ya=\dimen198
+\pgf@yb=\dimen199
+\pgf@yc=\dimen256
+\c@pgf@counta=\count322
+\c@pgf@countb=\count323
+\c@pgf@countc=\count324
+\c@pgf@countd=\count325
+)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pgf/math/pg
+fmathparser.code.tex
+\pgfmath@dimen=\dimen257
+\pgfmath@count=\count326
+\pgfmath@box=\box54
+\pgfmath@toks=\toks33
+\pgfmath@stack@operand=\toks34
+\pgfmath@stack@operation=\toks35
+)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pgf/math/pg
+fmathfunctions.code.tex
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pgf/math/pg
+fmathfunctions.basic.code.tex)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pgf/math/pg
+fmathfunctions.trigonometric.code.tex)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pgf/math/pg
+fmathfunctions.random.code.tex)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pgf/math/pg
+fmathfunctions.comparison.code.tex)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pgf/math/pg
+fmathfunctions.base.code.tex)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pgf/math/pg
+fmathfunctions.round.code.tex)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pgf/math/pg
+fmathfunctions.misc.code.tex)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pgf/math/pg
+fmathfunctions.integerarithmetics.code.tex)))
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pgf/math/pg
+fmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count327
+)))
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pgf/utiliti
+es/pgffor.code.tex
+Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
+
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pgf/math/pg
+fmath.code.tex)
+\pgffor@iter=\dimen258
+\pgffor@skip=\dimen259
+\pgffor@stack=\toks36
+\pgffor@toks=\toks37
+))
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/amsmath/amsma
+th.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip258
+
+For additional information on amsmath, use the `?' option.
+
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/amsmath/amste
+xt.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/amsmath/amsge
+n.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks38
+\ex@=\dimen260
+))
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/amsmath/amsbs
+y.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen261
+)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/amsmath/amsop
+n.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count328
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count329
+\leftroot@=\count330
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count331
+\DOTSCASE@=\count332
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box55
+\strutbox@=\box56
+\big@size=\dimen262
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count333
+\c@MaxMatrixCols=\count334
+\dotsspace@=\muskip17
+\c@parentequation=\count335
+\dspbrk@lvl=\count336
+\tag@help=\toks39
+\row@=\count337
+\column@=\count338
+\maxfields@=\count339
+\andhelp@=\toks40
+\eqnshift@=\dimen263
+\alignsep@=\dimen264
+\tagshift@=\dimen265
+\tagwidth@=\dimen266
+\totwidth@=\dimen267
+\lineht@=\dimen268
+\@envbody=\toks41
+\multlinegap=\skip259
+\multlinetaggap=\skip260
+\mathdisplay@stack=\toks42
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/amsfonts/amsf
+onts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/amsfonts/amss
+ymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/amscls/amsthm
+.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks43
+\thm@bodyfont=\toks44
+\thm@headfont=\toks45
+\thm@notefont=\toks46
+\thm@headpunct=\toks47
+\thm@preskip=\skip261
+\thm@postskip=\skip262
+\thm@headsep=\skip263
+\dth@everypar=\toks48
+)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/base/newlfont
+.sty
+Package: newlfont 1998/08/17 v2.2m Standard LaTeX package
+LaTeX Info: Redefining \em on input line 57.
+
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/base/latexsym
+.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+))
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/background/ba
+ckground.sty
+Package: background 2014/03/04 v2.1 background material
+
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/xkeyval/xkeyv
+al.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/xkeyval/xke
+yval.tex
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/xkeyval/xkv
+utils.tex
+\XKV@toks=\toks49
+\XKV@tempa@toks=\toks50
+)
+\XKV@depth=\count340
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/pgf/frontendl
+ayer/tikz.sty
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/pgf/basiclaye
+r/pgf.sty
+Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
+
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/pgf/basiclaye
+r/pgfcore.sty
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/pgf/systemlay
+er/pgfsys.sty
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pgf/systeml
+ayer/pgfsys.code.tex
+Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
+
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pgf/utiliti
+es/pgfkeys.code.tex)
+\pgf@x=\dimen269
+\pgf@y=\dimen270
+\pgf@xa=\dimen271
+\pgf@ya=\dimen272
+\pgf@xb=\dimen273
+\pgf@yb=\dimen274
+\pgf@xc=\dimen275
+\pgf@yc=\dimen276
+\pgf@xd=\dimen277
+\pgf@yd=\dimen278
+\w@pgf@writea=\write4
+\r@pgf@reada=\read4
+\c@pgf@counta=\count341
+\c@pgf@countb=\count342
+\c@pgf@countc=\count343
+\c@pgf@countd=\count344
+\t@pgf@toka=\toks51
+\t@pgf@tokb=\toks52
+\t@pgf@tokc=\toks53
+\pgf@sys@id@count=\count345
+
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pgf/systeml
+ayer/pgf.cfg
+File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pgf/systeml
+ayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2020/01/08 v3.1.5b (3.1.5b)
+
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pgf/systeml
+ayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
+)))
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pgf/systeml
+ayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfsyssoftpath@smallbuffer@items=\count346
+\pgfsyssoftpath@bigbuffer@items=\count347
+)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pgf/systeml
+ayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+))
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pgf/basicla
+yer/pgfcore.code.tex
+Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
+
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pgf/math/pg
+fmath.code.tex)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pgf/math/pg
+fint.code.tex)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pgf/basicla
+yer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@picminx=\dimen279
+\pgf@picmaxx=\dimen280
+\pgf@picminy=\dimen281
+\pgf@picmaxy=\dimen282
+\pgf@pathminx=\dimen283
+\pgf@pathmaxx=\dimen284
+\pgf@pathminy=\dimen285
+\pgf@pathmaxy=\dimen286
+\pgf@xx=\dimen287
+\pgf@xy=\dimen288
+\pgf@yx=\dimen289
+\pgf@yy=\dimen290
+\pgf@zx=\dimen291
+\pgf@zy=\dimen292
+)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pgf/basicla
+yer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@path@lastx=\dimen293
+\pgf@path@lasty=\dimen294
+)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pgf/basicla
+yer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@shorten@end@additional=\dimen295
+\pgf@shorten@start@additional=\dimen296
+)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pgf/basicla
+yer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfpic=\box57
+\pgf@hbox=\box58
+\pgf@layerbox@main=\box59
+\pgf@picture@serial@count=\count348
+)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pgf/basicla
+yer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgflinewidth=\dimen297
+)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pgf/basicla
+yer/pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@pt@x=\dimen298
+\pgf@pt@y=\dimen299
+\pgf@pt@temp=\dimen300
+)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pgf/basicla
+yer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pgf/basicla
+yer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pgf/basicla
+yer/pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pgf/basicla
+yer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfarrowsep=\dimen301
+)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pgf/basicla
+yer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@max=\dimen302
+\pgf@sys@shading@range@num=\count349
+\pgf@shadingcount=\count350
+)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pgf/basicla
+yer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pgf/basicla
+yer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfexternal@startupbox=\box60
+))
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pgf/basicla
+yer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pgf/basicla
+yer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pgf/basicla
+yer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pgf/basicla
+yer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)))
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pgf/modules
+/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfnodeparttextbox=\box61
+)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pgf/modules
+/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/pgf/compatibi
+lity/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@nodesepstart=\dimen303
+\pgf@nodesepend=\dimen304
+)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/pgf/compatibi
+lity/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
+))
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pgf/fronten
+dlayer/tikz/tikz.code.tex
+Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
+
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pgf/librari
+es/pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@plot@mark@count=\count351
+\pgfplotmarksize=\dimen305
+)
+\tikz@lastx=\dimen306
+\tikz@lasty=\dimen307
+\tikz@lastxsaved=\dimen308
+\tikz@lastysaved=\dimen309
+\tikz@lastmovetox=\dimen310
+\tikz@lastmovetoy=\dimen311
+\tikzleveldistance=\dimen312
+\tikzsiblingdistance=\dimen313
+\tikz@figbox=\box62
+\tikz@figbox@bg=\box63
+\tikz@tempbox=\box64
+\tikz@tempbox@bg=\box65
+\tikztreelevel=\count352
+\tikznumberofchildren=\count353
+\tikznumberofcurrentchild=\count354
+\tikz@fig@count=\count355
+
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pgf/modules
+/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfmatrixcurrentrow=\count356
+\pgfmatrixcurrentcolumn=\count357
+\pgf@matrix@numberofcolumns=\count358
+)
+\tikz@expandcount=\count359
+
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/pgf/fronten
+dlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)))
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/everypage/eve
+rypage.sty
+Package: everypage 2007/06/20 1.1 Hooks to run on every page
+)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/tools/afterpa
+ge.sty
+Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
+\AP@output=\toks54
+\AP@partial=\box66
+\AP@footins=\box67
+))
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/l3backend/l3b
+ackend-pdfmode.def
+File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count360
+\l__pdf_internal_box=\box68
+) (./CAPA.aux)
+\openout1 = `CAPA.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Trying to load font information for T1+aer on input line 52
+.
+
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/ae/t1aer.fd
+File: t1aer.fd 1997/11/16 Font definitions for T1/aer.
+)
+\AtBeginShipoutBox=\box69
+Package hyperref Info: Link coloring OFF on input line 52.
+
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/hyperref/name
+ref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/refcount/refc
+ount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/generic/gettitlestr
+ing/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count361
+)
+Redoing nameref's sectioning
+Redoing nameref's label
+LaTeX Info: Redefining \nameref on input line 52.
+LaTeX Info: Redefining \ref on input line 52.
+LaTeX Info: Redefining \pageref on input line 52.
+LaTeX Info: Redefining \nameref on input line 52.
+\myptabbox=\box70
+\myptabboxwidth=\skip264
+
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/context/base/mkii/s
+upp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count362
+\scratchdimen=\dimen314
+\scratchbox=\box71
+\nofMPsegments=\count363
+\nofMParguments=\count364
+\everyMPshowfont=\toks55
+\MPscratchCnt=\count365
+\MPscratchDim=\dimen315
+\MPnumerator=\count366
+\makeMPintoPDFobject=\count367
+\everyMPtoPDFconversion=\toks56
+)
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/
+epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/latexconfig/e
+pstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/pdflscape/pdf
+lscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+
+(f:/Math Installations/TeX Live/texlive/2020/texmf-dist/tex/latex/graphics/lsca
+pe.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+) ABD: EveryShipout initializing macros
+<./figs4tex/Capa_AL2.jpg, id=7, 597.432pt x 845.0772pt>
+File: ./figs4tex/Capa_AL2.jpg Graphic file (type jpg)
+<use ./figs4tex/Capa_AL2.jpg>
+Package pdftex.def Info: ./figs4tex/Capa_AL2.jpg  used on input line 55.
+(pdftex.def)             Requested size: 597.55817pt x 845.04933pt.
+ [1
+
+{f:/Math Installations/TeX Live/texlive/2020/texmf-var/fonts/map/pdftex/updmap/
+pdftex.map} <./figs4tex/Capa_AL2.jpg>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 55.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 55.
+ (./CAPA.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 55.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 55.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 55.
+ ) 
+Here is how much of TeX's memory you used:
+ 22964 strings out of 480906
+ 413776 string characters out of 5898451
+ 696434 words of memory out of 5000000
+ 38134 multiletter control sequences out of 15000+600000
+ 539820 words of font info for 39 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 66i,10n,64p,463b,755s stack positions out of 5000i,500n,10000p,200000b,80000s
+<f:/Math Installations/TeX Live/texlive/2020/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmr17.pfb>
+Output written on CAPA.pdf (1 page, 1563158 bytes).
+PDF statistics:
+ 21 PDF objects out of 1000 (max. 8388607)
+ 15 compressed objects within 1 object stream
+ 2 named destinations out of 1000 (max. 500000)
+ 18 words of extra memory for PDF output out of 10000 (max. 10000000)
+

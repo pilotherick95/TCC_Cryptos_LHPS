@@ -1,0 +1,50 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.7.19)  22 OCT 2020 15:48
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**FICHA_CAT.tex
+(./FICHA_CAT.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-07-17>
+
+! LaTeX Error: Environment fichacatalografica undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 \begin{fichacatalografica}
+                              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: \begin{document} ended by \end{fichacatalografica}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 \end{fichacatalografica}
+                             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+! Emergency stop.
+<*> FICHA_CAT.tex
+                 
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 17 strings out of 480906
+ 418 string characters out of 5898451
+ 242470 words of memory out of 5000000
+ 15715 multiletter control sequences out of 15000+600000
+ 535088 words of font info for 29 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 12i,0n,15p,89b,19s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!
