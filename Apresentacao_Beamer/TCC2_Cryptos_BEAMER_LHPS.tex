@@ -1,0 +1,501 @@
+\documentclass[aspectratio=43,8pt]{beamer}%aspectratio=1610, 149, 54, 43, 32.
+\include{CONFIGS_BEAMER} 	
+\include{PROGRESS_BAR_CONFIG}
+
+\usebackgroundtemplate{%
+	\tikz\node[opacity=0.1] {\includegraphics[height=\paperheight,width=\paperwidth]{./images/Background_43_opacity2.png}};}
+	
+\begin{document}
+	
+%\section{Início}	
+
+\begin{frame}
+	\input{FRAME_TITULO}
+\end{frame}	
+
+\section{Sobre}
+
+\begin{frame}
+	\frametitle{Sobre o Autor}
+	
+	\begin{columns}
+		
+		\column{0.5\linewidth}
+				
+		\begin{center}
+				\includegraphics[width = 0.7\linewidth]{LHPS.png}
+		\end{center}
+			
+		\column{0.5\linewidth}
+%		
+	Lucas Herick Pereira da Silva
+	
+	\vspace{5mm}
+	
+		\begin{enumerate}
+		\item Analista de desenvolvimento cloud pela Extractta Systems  Technology.
+		\item Membro do Centro de Inteligência em Dados (CID) da Alelo Brasil.
+		\item Entusiasta em Ciência de Dados, Design Gráfico e Produção musical.
+		\end{enumerate}
+	
+	\begin{figure}
+		\centering
+		\includegraphics[width=.3\linewidth]{linkedin_qrcode.png}
+		\includegraphics[width=.3\linewidth]{youtube_qrcode.png}
+	\end{figure}
+	
+	%\begin{center}
+	%\includegraphics[width = 0.3\linewidth, opacity = 0.2]{extractta.png}
+	%\includegraphics[width = 0.3\linewidth]{aws.png}
+	%\includegraphics[width = 0.2\linewidth]{alelo.png}
+	%\end{center}	
+	\end{columns}
+\end{frame}
+
+%--------------------FIM DO SOBRE--------------------
+
+\section{Introdução}
+
+\begin{frame}
+	\frametitle{Introdução - Citação do capítulo}
+	
+		\begin{figure}
+		\centering
+		{\footnotesize Fonte:  \url{https://www.azquotes.com/quote/1020895}}\\
+		\includegraphics[width = 0.7\linewidth]{quote_intro.jpg}
+		\caption{``(O) Bitcoin fará aos bancos o que o e-mail
+			fez à indústria postal'' - Rick Falkvinge
+			(tradução livre)}
+		\end{figure}
+\end{frame}
+
+\begin{frame}
+	\frametitle{Introdução}
+	
+	\begin{keypoint}
+	
+	\begin{enumerate}
+		\item Contextualização
+%		\begin{itemize}
+%			\item Integração \textit{Machine Learning} e \textit{Internet of Things}
+%			\item Volatilidade do Bitcoin 
+%		\end{itemize}
+ \pause
+		
+		\item Temática 
+%		\begin{itemize}
+%			\item Referência para citação inicial
+%		\end{itemize} 
+\pause
+		
+		\item Objetivos 
+%		\begin{itemize}
+%			\item Objetivo Geral
+%				\begin{itemize}
+%					\item Sintetizar a história das transações humanas em um breve contexto histórico e disseminar criptoliteracia que é o conhecimento sobre criptomoedas argumentando sobre suas funções e características na esperança de em algum momento no futuro estes sejam
+%					acessíveis e de fácil compreensão, independentemente da renda, status educacional ou sexo. 
+%				\end{itemize}\pause
+%			\item Objetivos específicos
+%		\end{itemize} 
+	\end{enumerate}
+	\end{keypoint}
+		\end{frame}
+	
+	\begin{frame}
+		\frametitle{Introdução}
+			\begin{keypoint}
+			\begin{enumerate}
+				 \setcounter{enumi}{3}
+		\item Estruturação do trabalho 
+\pause 
+		\begin{itemize}
+			\item Capítulo 2: Resumo histórico das evoluções de transações e das moedas, como a utilização dos metais, evolução do papel moeda, cartões de débito e crédito até o dinheiro digital. 
+			\item Capítulo 3: apresentação sobre o futuro das moedas. É feita uma introdução rápida sobre criptografia, o dinheiro virtual, uma ideia geral sobre o que são as criptomoedas e a percepção geral da população mundial sobre o tema. 
+			\item Capítulo 4: Desenvolvimento de atividade sobre custos e ganhos na mineração de criptomoedas e cálculo do tempo de retorno na adquirência de hardware.
+			\item Capítulo 5: Conclusão e sugestões de trabalhos futuros. 
+		\end{itemize}
+\pause
+	\item Relevância do trabalho
+%			\begin{itemize}
+%				\item Relato da aproximação do autor com o tema. 
+%			\end{itemize} 
+		
+		
+	\end{enumerate}
+	\end{keypoint}
+\end{frame}
+
+%--------------------FIM DO CAP 1--------------------
+
+\section{Histórico}
+
+\begin{frame}
+	\frametitle{Histórico - Citação do capítulo}
+	
+	\begin{figure}
+		\centering
+		{\footnotesize Fonte:  \url{https://bit.ly/3mF31a7}}\\
+		\includegraphics[width = 0.5\linewidth]{quote_chap2.jpg}
+		\caption{
+			``Toda troca estimula a atividade produtiva,
+			seja troca por presente, aposta, escambo ou
+			transação com dinheiro.'' - Aaron C. Brown
+			(tradução livre)
+}
+	\end{figure}
+\end{frame}
+
+\begin{frame}<1>[label=chap2]
+	\frametitle{Histórico}
+		\begin{keypoint}
+		
+		\begin{enumerate}
+			\item Prólogo
+%			\begin{itemize}
+%				\item Condução do leitor para período pre-histórico
+%			\end{itemize}
+\pause
+			
+			\item O princípio 
+%			\begin{itemize}
+%				\item Escambo
+%				\item Conchas (e outros objetos)
+%			\end{itemize} 
+
+\pause
+			
+			\item Metais 
+%			\begin{itemize}
+%				\item Cunhagem
+%				\item Primeira moeda oficial
+%			\end{itemize}
+\pause
+			\item Transição para o papel moeda 
+\pause
+			\item Guerras cambiais 
+\pause
+			\item Cartões e ATMs 	
+\pause
+		
+			\item Transações eletrônica e bancos digitais 
+		\end{enumerate} 
+	\end{keypoint}
+\end{frame}
+
+\begin{frame}[noframenumbering]
+	\begin{figure}
+		\centering
+		{\footnotesize Fonte: Desenvolvido pelo com assets open-source e plataforma whimsical}\\
+		\includegraphics[width = 0.8\linewidth]{time_travel.png}
+		\caption{}
+	\end{figure}
+\end{frame}
+\againframe<2>{chap2}
+\begin{frame}[noframenumbering]
+	\begin{figure}
+		\centering
+		{\footnotesize Fonte: Utilizado no documento}\\
+		\includegraphics[width = 0.35\linewidth]{barter_1.png}
+		\includegraphics[width = 0.57\linewidth]{barter_2.png}
+		\caption{}
+	\end{figure}
+\end{frame}
+\againframe<3>{chap2}
+\begin{frame}[noframenumbering]
+	\begin{figure}
+		\centering
+		{\footnotesize Fonte: Utilizadas no documento}\\
+		\includegraphics[width = 0.45\linewidth]{Lydia_map.jpg}
+		\includegraphics[width = 0.50\linewidth]{lydian_lion.jpg}
+		\caption{}
+	\end{figure}
+\end{frame}
+\againframe<4>{chap2}
+\begin{frame}[noframenumbering]
+	\begin{figure}
+		\centering
+		{\footnotesize Fonte: Utilizado no documento}\\
+		\includegraphics[width = 0.4\linewidth]{card_money.png}
+		\includegraphics[width = 0.4\linewidth]{card_money2.png}
+		\caption{}
+	\end{figure}
+\end{frame}
+\againframe<5>{chap2}
+%\begin{frame}[noframenumbering]
+%	picture5
+%\end{frame}
+\againframe<6>{chap2}
+\begin{frame}[noframenumbering]
+	\begin{figure}
+		\centering
+		{\footnotesize Fonte: \url{https://bit.ly/3qPp943}}\\
+		\includegraphics[width = 0.8\linewidth]{the_first_atm.jpg}
+		\caption{}
+	\end{figure}
+\end{frame}
+\againframe<7>{chap2}
+\begin{frame}[noframenumbering]
+		\begin{figure}
+		\centering
+		{\footnotesize Fonte: Utilizado no documento}\\
+		\includegraphics[width = 0.8\linewidth]{Resumo.png}
+		\caption{}
+	\end{figure}
+\end{frame}
+%--------------------FIM DO CAP 2--------------------
+
+\section{O futuro}
+
+\begin{frame}
+	\frametitle{O futuro - Citação do capítulo}
+	
+		\begin{figure}
+		\centering
+		{\footnotesize Fonte:  \url{https://www.azquotes.com/quote/1030064}}\\
+		\includegraphics[width = 0.7\linewidth]{quote_chap3.jpg}
+		\caption{``O que me afetou mais profundamente foi a
+			percepção de que as ciências da criptografia e
+			da matemática são ciências puras muito
+			elegantes. Descobri que os fins para os quais
+			essas ciências puras são usadas são menos
+			elegantes.'' -  Jim Sanborn
+			(tradução livre)}
+	\end{figure}
+\end{frame}
+
+\begin{frame}<1>[label=chap3]
+	\frametitle{O futuro}
+	\begin{keypoint}
+		
+		\begin{enumerate}
+			\item Noções de criptografia 
+%			\begin{itemize}
+%				\item Ideia geral
+%				\item Métodos criptográficos históricos
+%				\item Chaves criptográficas
+%				\item Blockchain
+%			\end{itemize}
+\pause			
+			\item Criptoativos 
+%			\begin{itemize}
+%				\item Conceito
+%				\item Concepção
+%				\item Receptividade no mundo e na sociedade brasileira
+%				\item Proposta de questionário
+%			\end{itemize} 
+			
+		\end{enumerate} 
+	\end{keypoint}
+\end{frame}
+
+\begin{frame}[noframenumbering]
+	\begin{figure}
+		\centering
+		{\footnotesize Fonte: Utilizado no documento}\\
+		\includegraphics[width = 0.95\linewidth]{Private-Public_Key.png}
+		\caption{Esquema de funcionamento das criptografias por chave pública e por chave privada}
+	\end{figure}
+\end{frame}
+\againframe<2>{chap3}
+\begin{frame}[noframenumbering]
+\begin{figure}
+	\centering
+	{\footnotesize Fonte: (AGÊNCIA DINO, 2021)}\\
+	\includegraphics[width = 0.95\linewidth]{teste_crypto.png}
+	\caption{Esquema de funcionamento das criptografias por chave pública e por chave privada}
+\end{figure}
+\end{frame}
+
+
+%--------------------FIM DO CAP 3--------------------
+
+\section{Atividade}
+
+\begin{frame}
+	\frametitle{Atividade - Citação do capítulo}
+	
+	\begin{figure}
+		\centering
+		{\footnotesize Fonte:  \url{https://www.bitcoinersanonymous.com/project/abigail-johnson/}}\\
+		\includegraphics[width = 0.7\linewidth]{quote_chap4.jpg}
+		\caption{``Montamos uma pequena operação de
+			mineração de bitcoin e ethereum... que
+			milagrosamente agora está ganhando muito
+			dinheiro'' - Abigail Johnson
+			(tradução livre)}
+	\end{figure}
+\end{frame}
+
+\begin{frame}<1>[label=chap4p1]
+	\frametitle{Atividade}
+	\begin{keypoint}
+		
+		\begin{enumerate}
+			\item Introdução 
+%				\begin{itemize}
+%					\item Motivador
+%				\end{itemize}
+\pause
+			\item Embasamento 	
+%				\begin{itemize}
+%					\item Bases conceituais
+%					\begin{itemize}
+%						\item Matemátia financeira
+%						\item Conversões de medidas
+%					\end{itemize}
+\pause
+			%	\end{itemize}
+					\item Construção 
+%						\begin{itemize}
+%							\item Habilidades BNCC 
+%						\end{itemize} 
+\pause
+					\item Infraestruturas digitais
+%					\begin{itemize}
+%						\item On premise versus cloud
+%						\item Sistemas operacionais
+%					\end{itemize} 
+\pause
+%				\end{itemize}
+		\end{enumerate} 
+	\end{keypoint}
+\end{frame}
+
+\begin{frame}[noframenumbering]
+	\begin{figure}
+		\centering
+		{\footnotesize Fonte: Utilizado no documento}\\
+		\includegraphics[width = 0.7\linewidth]{tesla-ethereum-doge_sketch.jpg}
+		\caption{Um passeio veicular}
+	\end{figure}
+\end{frame}
+\againframe<2>{chap4p1}
+%\begin{frame}[noframenumbering]
+%	picture2.1
+%\end{frame}
+\againframe<3>{chap4p1}
+\begin{frame}[noframenumbering]
+	\begin{figure}
+		\centering
+		{\footnotesize Fonte: Print do documento}\\
+		\includegraphics[width = 0.7\linewidth]{BNCC.png}
+		\caption{BNCC - Habilidade visadas}
+	\end{figure}
+\end{frame}
+\againframe<4>{chap4p1}
+\begin{frame}[noframenumbering]
+	\begin{figure}
+		\centering
+		{\footnotesize Fonte: \url{https://www.micromata.de/blog/on-premise-vs-cloud/}}\\
+		\includegraphics[width = 0.7\linewidth]{on_premise_cloud.png}
+		\caption{On premise versus cloud}
+	\end{figure}
+\end{frame}
+
+\begin{frame}<1>[label=chap4p2]
+	\frametitle{Atividade}
+	\begin{keypoint}
+		
+		\begin{enumerate}
+			\setcounter{enumi}{4}
+			\item Guia do professor
+%			\begin{itemize}
+%				\item Planilha piloto
+%			\end{itemize} 
+\pause
+			
+			\item Plano de aula 
+%			\begin{itemize}
+%				\item Materiais necessários
+%				\item Metodologia
+%				\item Avaliação
+%			\end{itemize} 
+\pause
+			
+			\item Exemplo de resultado \pause
+			 
+		\end{enumerate} 
+	\end{keypoint}
+\end{frame}
+%\begin{frame}[noframenumbering]
+%	picture3
+%\end{frame}
+\againframe<2>{chap4p2}
+%\begin{frame}[noframenumbering]
+%	picture4
+%\end{frame}
+\againframe<3>{chap4p2}
+%\begin{frame}[noframenumbering]
+%	picture5
+%\end{frame}
+
+
+
+%--------------------FIM DO CAP 4--------------------
+
+\section{Considerações}
+
+\begin{frame}
+	\frametitle{Considerações Finais - Citação do capítulo}
+	
+	\begin{figure}
+		\centering
+		{\footnotesize Fonte:  \url{https://biblics.com/en/bible/good-news-bible-anglicised/old-testament/ecclesiastes/11/1}}\\
+		\includegraphics[width = 0.7\linewidth]{quote_chap5.jpg}
+		\caption{``Invista seu dinheiro no comércio exterior, e
+			um dia desses você terá lucro.'' - Bíblia Sagrada, edição boas novas anglicizada.
+			(tradução livre)}
+	\end{figure}
+\end{frame}
+
+\begin{frame}
+	\frametitle{Considerações Finais}
+	\begin{keypoint}
+		
+		\begin{enumerate}
+			\item Conclusões 
+			\item Sugestões para trabalhos futuros
+		\end{enumerate} 
+	\end{keypoint}
+\end{frame}
+
+\section{Final}
+
+\begin{frame}
+	\frametitle{Final }
+	
+	\begin{center}
+	{\Huge Q\&A}
+	
+	\vspace{5mm}
+	
+	(Perguntas e respostas)
+	\end{center}
+
+\end{frame}
+\begin{frame}
+	\frametitle{Final}
+%	Meus sinceros agradecimentos para:
+%	
+%	\vspace{5mm}
+%	
+%{\small 	\begin{itemize}
+%		\item A todos aqueles que estão presentes nesta apresentação
+%		\item A todos citados na seção de agradecimentos no documento. 
+%	\end{itemize}}
+%
+%\vspace{1cm}
+
+\noindent
+\begin{center}
+	{\Huge Obrigado.\\
+		   Thank you.\\
+		   Merci. \\
+		   Gracias.\\ 
+		   \vspace{3mm} $\underset{{\text{\footnotesize(gamsahamnida)}}}{\text{감사합니다}}$.}
+\end{center}
+
+\end{frame}
+
+%-----------------------------------------------
+\end{document}

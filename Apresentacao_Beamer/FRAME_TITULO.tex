@@ -1,0 +1,97 @@
+%%%%%%%% Title slide details %%%%%%%%%%%%%%
+
+
+% Background Image
+\newcommand{\myBG}
+{
+    \includegraphics[width=\paperwidth]{./images/Background_43_opacity1.jpg}
+}
+
+% Title
+\newcommand{\myTitle}
+{
+    %\nohyphenation 
+    DO LEGADO AOS CRIPTOATIVOS:\\
+    UMA PERSPECTIVA DOS MEIOS DE\\
+    PAGAMENTO PARA O ENSINO BÁSICO
+}
+
+% Subtitle
+\newcommand{\mySubTitle}
+{
+    Apresentação de trabalho de conclusão de curso\\
+    
+    {\tiny \url{meet.google.com/jnx-fqge-qvq}}
+    
+}
+
+% Author
+\newcommand{\myAuthor}   
+{
+    Lucas Herick P. da Silva
+    
+}
+
+%% Presentation Date
+\newdate{PresentationDay}{28}{01}{2022}\ddmmyyyydate 
+\date{\displaydate{date}}
+\newcommand{\myDate}   
+{
+    \displaydate{PresentationDay}, \formattime{19}{00}{00}
+     
+    
+}
+%
+%Logo
+\newcommand{\myLogo}   
+{
+    \includegraphics[width=.2\textwidth]{./images/uff_main.png}
+    \hspace{3mm}
+    \includegraphics[width=.3\textwidth]{./images/logoescrito3_imeuff.png}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%% Title slide code %%%%%%%%%%%
+\begin{tikzpicture}[remember picture,overlay]
+
+% Background image
+\node[above right,inner sep=0pt] at (current page.south west)
+    {
+        \myBG
+    };
+    
+% Title & Subtitle
+\node
+[
+    above=0.5cm,
+    align=center,
+    fill=black!10,
+    rounded corners,
+    inner xsep=15pt,
+    inner ysep=10pt, 
+    minimum width=0.7\textwidth,
+    text width=0.7\textwidth
+] (title) at (current page.center)
+{
+    \LARGE \myTitle  \\[5pt]
+    \small \mySubTitle
+};
+
+ Author 
+\node[below=0.5cm] (author) at (title.south){\myAuthor};
+
+
+ Date
+\node[below=.5cm] (date) at (author.south){ \myDate};
+
+ Logo
+\node
+[
+    below =0.5cm
+] at (date.south)
+{
+    \myLogo
+};
+
+\end{tikzpicture}

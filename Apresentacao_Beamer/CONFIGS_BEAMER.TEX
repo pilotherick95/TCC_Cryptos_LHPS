@@ -1,0 +1,56 @@
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[brazil]{babel}
+\usepackage{amssymb,amsmath,amsfonts}
+\usepackage{graphicx}
+\usetheme{CambridgeUS}
+\usepackage{multicol}
+\usepackage{multirow}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage[]{xcolor}
+\usepackage{pagecolor}
+\usepackage{mdframed}
+\usepackage{url}
+\usepackage{tabularx}
+\usepackage{tikz}
+\usepackage{tikz}
+\usepackage{datetime}
+\usepackage{kotex}
+\usepackage{hyphenat}
+
+\setbeamercovered{transparent=5}
+
+\usefonttheme{serif}
+
+\newcommand{\propnumber}{} % initialize
+\newtheorem*{prop}{Proposição \propnumber}
+\newenvironment{propc}[1]
+{\renewcommand{\propnumber}{#1}%
+	\begin{shaded}\begin{prop}}
+		{\end{prop}\end{shaded}}
+
+\setbeamertemplate{footline}
+{
+	\hbox{\begin{beamercolorbox}[wd=1\paperwidth,ht=2.25ex,dp=1ex,right]{framenumber}%
+			\usebeamerfont{framenumber}\insertframenumber{} / \inserttotalframenumber\hspace*{2ex}
+	\end{beamercolorbox}}%
+	\vskip0pt%
+}
+
+\setbeamercolor{frametitle}{fg=blue,bg=gray!15}
+
+% Definicao de novos ambientes
+\newtheorem{defn}{Defini\c c\~ao} 
+\newtheorem{teo}[theorem]{Teorema}
+\newtheorem{ex}[theorem]{Exemplos}
+\newtheorem{hint}[theorem]{Dica!}
+\newtheorem{refboi}[theorem]{Citação!}
+\newtheorem{keypoint}[theorem]{Pontos chaves}
+\AtBeginEnvironment{keypoint}{%
+	\setbeamercolor{block title}{use=example text,fg=black,bg=blue!60!white}
+	\setbeamercolor{block body}{parent=normal text,use=block title example,bg=red!10}
+}
+
+\graphicspath{{./images/}}
