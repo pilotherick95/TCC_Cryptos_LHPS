@@ -1,5 +1,7 @@
 # TCC_Cryptos_LHPS <br/>
 
+%--MAIN TEX ABNT-----------------<br/>
+<br/>
 %--Arquivos_tex_mestres-- <br/>
 TCC_1_Cryptos_LHPS.tex - Arquivo Mestre que une todos <br/>
 PACKAGES_CONFIGS.tex - Arquivo com todas as configurações de pacotes utilizados <br/>
@@ -35,3 +37,11 @@ ficha_cat - pasta para armazenar .pdf da ficha catalográfica <br/>
 form - pasta para armazenar .pdf do formulário <br/>
 planilha_atividade - pasta temporária para armazenar atividade .gsheet <br/>
 CRYPTOREFS.bib - Arquivo .bib das referências <br/>
+
+
+%--APRESENTACAO-----------------<br/>
+
+TCC2_Cryptos_BEAMER_LHPS.tex - Arquivo mestre da apresentação
+CONFIGS_BEAMER.tex - Arquivo com todas as configurações de pacotes utilizados <br/>
+PROGRESS_BAR_CONFIG.tex - Arquivo de configuração da barra de progresso (adaptado de https://topanswers.xyz/tex?q=588) <br/>
+FRAME_TITULO.tex - Configurações do frame inicial / capa / divulgacao<br/>
