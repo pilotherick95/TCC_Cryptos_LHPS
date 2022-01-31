@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12.10) (preloaded format=pdflatex 2022.1.5)  8 JAN 2022 14:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12.10) (preloaded format=pdflatex 2022.1.5)  31 JAN 2022 18:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -607,14 +607,6 @@ LaTeX Warning: \include should only be used after \begin{document} on input lin
 e 9.
 
 (PACKAGES_CONFIGS.tex
-(C:\Users\lucas\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
-Package: inputenc 2021/02/14 v1.3d Input encoding file
-\inpenc@prehook=\toks26
-\inpenc@posthook=\toks27
-)
-(C:\Users\lucas\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
-Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-)
 (C:\Users\lucas\AppData\Local\Programs\MiKTeX\tex/latex/lm\lmodern.sty
 Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
@@ -650,6 +642,19 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
 )
+(C:\Users\lucas\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks26
+\inpenc@posthook=\toks27
+)
+(C:\Users\lucas\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 11
+2.
+
+(C:\Users\lucas\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+))
 (C:\Users\lucas\AppData\Local\Programs\MiKTeX\tex/latex/imakeidx\imakeidx.sty
 Package: imakeidx 2016/10/15 v1.3e Package for typesetting indices in a synchro
 nous mode
@@ -1712,13 +1717,7 @@ Package: marginnote 2018/08/09 v1.4b non floating margin notes for LaTeX
 )
 (C:\Users\lucas\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage.sty
 Package: lastpage 2021/09/03 v1.2n Refers to last page's name (HMM; JPG)
-))
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 11
-.
-(C:\Users\lucas\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
-File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-(TCC_1_Cryptos_LHPS.aux (CAPA.aux) (FOLHAROSTO.aux) (FICHA_CAT.aux)
+)) (TCC_1_Cryptos_LHPS.aux (CAPA.aux) (FOLHAROSTO.aux) (FICHA_CAT.aux)
 (FOLHA_APROV.aux) (DEDIC.aux) (AGRADEC.aux) (EPIGRAFE.aux) (RES_ABS.aux)
 (SUM_LISFIG.aux) (SIG_ABB.aux) (PROLOG.aux) (DEVELOPMENT2.aux)
 (DEVELOPMENT3.aux) (HANDSON.aux) (ENDING.aux) (BIBLIOG.aux) (APPENDIX.aux)
@@ -1972,16 +1971,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 20--21
 \T1/lmr/m/n/12 (+20) da Universidade Federal Fluminense
  []
 
-
-Underfull \hbox (badness 2205) in paragraph at lines 20--21
-\T1/lmr/m/n/12 (+20) como requisito parcial para aprovação
- []
-
-
-Underfull \hbox (badness 5592) in paragraph at lines 20--21
-\T1/lmr/m/n/12 (+20) na disciplina Monografia (GGT00013)
- []
-
 )
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
@@ -2055,16 +2044,6 @@ Underfull \hbox (badness 3482) in paragraph at lines 19--20
 
 Underfull \hbox (badness 10000) in paragraph at lines 19--20
 \T1/lmr/m/n/12 (+20) da Universidade Federal Fluminense
- []
-
-
-Underfull \hbox (badness 2205) in paragraph at lines 19--20
-\T1/lmr/m/n/12 (+20) como requisito parcial para aprovação
- []
-
-
-Underfull \hbox (badness 5592) in paragraph at lines 19--20
-\T1/lmr/m/n/12 (+20) na disciplina Monografia (GGT00013)
  []
 
 ) [3
@@ -2151,7 +2130,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 \openout2 = `RES_ABS.aux'.
 
  (RES_ABS.tex
-Underfull \hbox (badness 10000) in paragraph at lines 9--10
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
 
  []
 
@@ -2162,7 +2141,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--10
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 20--21
+Underfull \hbox (badness 10000) in paragraph at lines 21--23
 
  []
 
@@ -2250,7 +2229,7 @@ Missing character: There is no  in font uwmj20!
 
 
 ]
-<./figs4tex//barter_1.png, id=377, 435.6275pt x 459.7175pt>
+<./figs4tex//barter_1.png, id=378, 435.6275pt x 459.7175pt>
 File: ./figs4tex//barter_1.png Graphic file (type png)
 <use ./figs4tex//barter_1.png>
 Package pdftex.def Info: ./figs4tex//barter_1.png  used on input line 39.
@@ -2265,7 +2244,7 @@ Package fancyhdr Warning: \headheight is too small (14.5pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.85403pt}.
 
 [22]
-<./figs4tex//barter_2.png, id=397, 1146.2825pt x 724.7075pt>
+<./figs4tex//barter_2.png, id=398, 1146.2825pt x 724.7075pt>
 File: ./figs4tex//barter_2.png Graphic file (type png)
 <use ./figs4tex//barter_2.png>
 Package pdftex.def Info: ./figs4tex//barter_2.png  used on input line 53.
@@ -2307,12 +2286,12 @@ Package fancyhdr Warning: \headheight is too small (14.5pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.85403pt}.
 
 [25]
-<./figs4tex//lydian_lion.jpg, id=446, 923.45pt x 612.2875pt>
+<./figs4tex//lydian_lion.jpg, id=447, 923.45pt x 612.2875pt>
 File: ./figs4tex//lydian_lion.jpg Graphic file (type jpg)
 <use ./figs4tex//lydian_lion.jpg>
 Package pdftex.def Info: ./figs4tex//lydian_lion.jpg  used on input line 80.
 (pdftex.def)             Requested size: 318.66948pt x 211.28613pt.
-<./figs4tex//lydia_map.jpg, id=449, 930.47626pt x 575.14874pt>
+<./figs4tex//lydia_map.jpg, id=450, 930.47626pt x 575.14874pt>
 File: ./figs4tex//lydia_map.jpg Graphic file (type jpg)
 <use ./figs4tex//lydia_map.jpg>
 Package pdftex.def Info: ./figs4tex//lydia_map.jpg  used on input line 86.
@@ -2336,12 +2315,12 @@ Package fancyhdr Warning: \headheight is too small (14.5pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.85403pt}.
 
 [27 <./figs4tex//lydia_map.jpg>]
-<./figs4tex//card_money.png, id=476, 278.54062pt x 193.47281pt>
+<./figs4tex//card_money.png, id=477, 278.54062pt x 193.47281pt>
 File: ./figs4tex//card_money.png Graphic file (type png)
 <use ./figs4tex//card_money.png>
 Package pdftex.def Info: ./figs4tex//card_money.png  used on input line 102.
 (pdftex.def)             Requested size: 227.62206pt x 158.10847pt.
-<./figs4tex//card_money2.png, id=477, 260.47313pt x 240.14719pt>
+<./figs4tex//card_money2.png, id=478, 260.47313pt x 240.14719pt>
 File: ./figs4tex//card_money2.png Graphic file (type png)
 <use ./figs4tex//card_money2.png>
 Package pdftex.def Info: ./figs4tex//card_money2.png  used on input line 104.
@@ -2360,7 +2339,7 @@ Package fancyhdr Warning: \headheight is too small (14.5pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.85403pt}.
 
 [28 <./figs4tex//card_money.png> <./figs4tex//card_money2.png>]
-<./figs4tex//Banknotes.jpg, id=504, 1606.0pt x 1127.21124pt>
+<./figs4tex//Banknotes.jpg, id=505, 1606.0pt x 1127.21124pt>
 File: ./figs4tex//Banknotes.jpg Graphic file (type jpg)
 <use ./figs4tex//Banknotes.jpg>
 Package pdftex.def Info: ./figs4tex//Banknotes.jpg  used on input line 124.
@@ -2388,7 +2367,7 @@ Package fancyhdr Warning: \headheight is too small (14.5pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.85403pt}.
 
 [30]
-<./figs4tex//Resumo.png, id=543, 875.27pt x 311.1625pt>
+<./figs4tex//Resumo.png, id=544, 875.27pt x 311.1625pt>
 File: ./figs4tex//Resumo.png Graphic file (type png)
 <use ./figs4tex//Resumo.png>
 Package pdftex.def Info: ./figs4tex//Resumo.png  used on input line 152.
@@ -2430,7 +2409,7 @@ Package fancyhdr Warning: \headheight is too small (14.5pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.85403pt}.
 
 [33]
-<./figs4tex//caesar_cipher.jpg, id=585, 1097.09875pt x 1029.8475pt>
+<./figs4tex//caesar_cipher.jpg, id=586, 1097.09875pt x 1029.8475pt>
 File: ./figs4tex//caesar_cipher.jpg Graphic file (type jpg)
 <use ./figs4tex//caesar_cipher.jpg>
 Package pdftex.def Info: ./figs4tex//caesar_cipher.jpg  used on input line 69.
@@ -2449,7 +2428,7 @@ Package fancyhdr Warning: \headheight is too small (14.5pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.85403pt}.
 
 [34 <./figs4tex//caesar_cipher.jpg>]
-<./figs4tex//Private-Public_Key.png, id=595, 989.6975pt x 303.1325pt>
+<./figs4tex//Private-Public_Key.png, id=596, 989.6975pt x 303.1325pt>
 File: ./figs4tex//Private-Public_Key.png Graphic file (type png)
 <use ./figs4tex//Private-Public_Key.png>
 Package pdftex.def Info: ./figs4tex//Private-Public_Key.png  used on input line
@@ -2569,7 +2548,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--24
 
 
 ]
-<./figs4tex//tesla-ethereum-doge_sketch.jpg, id=698, 1084.05pt x 730.73pt>
+<./figs4tex//tesla-ethereum-doge_sketch.jpg, id=699, 1084.05pt x 730.73pt>
 File: ./figs4tex//tesla-ethereum-doge_sketch.jpg Graphic file (type jpg)
 <use ./figs4tex//tesla-ethereum-doge_sketch.jpg>
 Package pdftex.def Info: ./figs4tex//tesla-ethereum-doge_sketch.jpg  used on in
@@ -2846,7 +2825,7 @@ Package fancyhdr Warning: \headheight is too small (14.5pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.85403pt}.
 
 [45]
-<./figs4tex//RIG_ARCH1.png, id=730, 2364.835pt x 1549.79pt>
+<./figs4tex//RIG_ARCH1.png, id=731, 2364.835pt x 1549.79pt>
 File: ./figs4tex//RIG_ARCH1.png Graphic file (type png)
 <use ./figs4tex//RIG_ARCH1.png>
 Package pdftex.def Info: ./figs4tex//RIG_ARCH1.png  used on input line 148.
@@ -2861,7 +2840,7 @@ Package fancyhdr Warning: \headheight is too small (14.5pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.85403pt}.
 
 [46]
-<./figs4tex//whattomine_tools1.png, id=742, 233.37187pt x 225.84375pt>
+<./figs4tex//whattomine_tools1.png, id=743, 233.37187pt x 225.84375pt>
 File: ./figs4tex//whattomine_tools1.png Graphic file (type png)
 <use ./figs4tex//whattomine_tools1.png>
 Package pdftex.def Info: ./figs4tex//whattomine_tools1.png  used on input line 
@@ -2877,27 +2856,27 @@ Package fancyhdr Warning: \headheight is too small (14.5pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.85403pt}.
 
 [47 <./figs4tex//RIG_ARCH1.png>]
-<./figs4tex//Nicehash_1.png, id=752, 801.74532pt x 643.6547pt>
+<./figs4tex//Nicehash_1.png, id=753, 801.74532pt x 643.6547pt>
 File: ./figs4tex//Nicehash_1.png Graphic file (type png)
 <use ./figs4tex//Nicehash_1.png>
 Package pdftex.def Info: ./figs4tex//Nicehash_1.png  used on input line 172.
 (pdftex.def)             Requested size: 182.09486pt x 146.18123pt.
-<./figs4tex//minerstat_1.png, id=753, 950.04938pt x 693.34032pt>
+<./figs4tex//minerstat_1.png, id=754, 950.04938pt x 693.34032pt>
 File: ./figs4tex//minerstat_1.png Graphic file (type png)
 <use ./figs4tex//minerstat_1.png>
 Package pdftex.def Info: ./figs4tex//minerstat_1.png  used on input line 173.
 (pdftex.def)             Requested size: 182.09486pt x 132.88919pt.
-<./figs4tex//Nicehash_2.png, id=758, 616.55344pt x 551.81157pt>
+<./figs4tex//Nicehash_2.png, id=759, 616.55344pt x 551.81157pt>
 File: ./figs4tex//Nicehash_2.png Graphic file (type png)
 <use ./figs4tex//Nicehash_2.png>
 Package pdftex.def Info: ./figs4tex//Nicehash_2.png  used on input line 180.
 (pdftex.def)             Requested size: 227.62206pt x 203.72083pt.
-<./figs4tex//Minerstat_1.png, id=759, 950.04938pt x 693.34032pt>
+<./figs4tex//Minerstat_1.png, id=760, 950.04938pt x 693.34032pt>
 File: ./figs4tex//Minerstat_1.png Graphic file (type png)
 <use ./figs4tex//Minerstat_1.png>
 Package pdftex.def Info: ./figs4tex//Minerstat_1.png  used on input line 181.
 (pdftex.def)             Requested size: 218.51521pt x 159.46492pt.
-<./figs4tex//Whattomine_2.png, id=760, 986.18437pt x 548.80031pt>
+<./figs4tex//Whattomine_2.png, id=761, 986.18437pt x 548.80031pt>
 File: ./figs4tex//Whattomine_2.png Graphic file (type png)
 <use ./figs4tex//Whattomine_2.png>
 Package pdftex.def Info: ./figs4tex//Whattomine_2.png  used on input line 182.
@@ -3326,16 +3305,16 @@ Package rerunfilecheck Info: File `TCC_1_Cryptos_LHPS.brf' has not changed.
 (rerunfilecheck)             Checksum: D60B0AC68210C4039B297CEFC6298419;3012.
  ) 
 Here is how much of TeX's memory you used:
- 42510 strings out of 478659
- 820241 string characters out of 2845921
- 1233513 words of memory out of 3000000
- 59081 multiletter control sequences out of 15000+600000
- 502722 words of font info for 246 fonts, out of 8000000 for 9000
+ 42494 strings out of 478659
+ 820201 string characters out of 2845921
+ 1233616 words of memory out of 3000000
+ 59058 multiletter control sequences out of 15000+600000
+ 502288 words of font info for 249 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 97i,19n,138p,2665b,728s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 97i,19n,138p,2669b,728s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Users/lucas/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}{
-C:/Users/lucas/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/U
-sers/lucas/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users
+C:/Users/lucas/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/U
+sers/lucas/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users
 /lucas/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Users
 /lucas/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}<C:/Users
 /lucas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users
@@ -3354,7 +3333,7 @@ as/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/lucas
 jmb2.pfb><C:/Users/lucas/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanum
 type1/nanummjmc0.pfb><C:/Users/lucas/AppData/Local/Programs/MiKTeX/fonts/type1/
 public/nanumtype1/nanummjmd5.pfb>
-Output written on TCC_1_Cryptos_LHPS.pdf (78 pages, 4428073 bytes).
+Output written on TCC_1_Cryptos_LHPS.pdf (78 pages, 4427096 bytes).
 PDF statistics:
  1506 PDF objects out of 1728 (max. 8388607)
  304 named destinations out of 1000 (max. 500000)
